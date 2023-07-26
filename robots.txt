@@ -1,0 +1,5 @@
+
+User-agent: *
+Disallow: 
+Disallow: 
+Sitemap: https://cardcraze.pages.dev/sitemap.xml
